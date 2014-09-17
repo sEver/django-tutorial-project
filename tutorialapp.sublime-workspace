@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 263.0,
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"exit",
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sever/projects/learning/django-1"
+	],
+	"file_history":
+	[
+		"/home/sever/workspace/profitelo-frontend/src/app/home/home.coffee",
+		"/home/sever/workspace/profitelo-frontend/src/common/translations/language_pl-pl.coffee",
+		"/home/sever/workspace/profitelo-frontend/src/index.html",
+		"/home/sever/workspace/profitelo-frontend/src/common/templates/top-navigation.tpl.html",
+		"/home/sever/workspace/profitelo-frontend/src/common/templates/footer.html",
+		"/home/sever/workspace/profitelo-frontend/src/app/service/service.spec.js",
+		"/home/sever/workspace/profitelo-frontend/src/app/app.spec.js",
+		"/home/sever/workspace/profitelo-frontend/README.md",
+		"/home/sever/workspace/profitelo-frontend/Gruntfile.js",
+		"/home/sever/workspace/profitelo-frontend/src/common/translations/language_en-us.coffee",
+		"/home/sever/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sever/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/sever/workspace/profitelo-frontend/src/app/404/404.coffee",
+		"/home/sever/workspace/profitelo-frontend/tmux-console.sh",
+		"/home/sever/workspace/profitelo-frontend/.travis.yml",
+		"/home/sever/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/sever/projects/profitelo_webapp/templates/service/index.html",
+		"/home/sever/projects/profitelo_webapp/templates/base.html",
+		"/home/sever/projects/profitelo_webapp/.gitignore",
+		"/home/sever/projects/profitelo_webapp/local/tmux-sever.sh",
+		"/home/sever/projects/profitelo_webapp/local/settings.py",
+		"/home/sever/projects/profitelo_webapp/local/tornado_server.py",
+		"/home/sever/projects/profitelo_webapp/local/tmux.fish"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/sever/workspace/profitelo-frontend",
+			"/home/sever/projects/profitelo_webapp/templates",
+			"/home/sever/projects/profitelo_webapp",
+			"/home/sever/projects/profitelo_webapp/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"technic help",
+			"recommended",
+			"recomended",
+			"    'Recomended': 'Polecane'\n    'recomended': 'polecane'\n",
+			"Service",
+			">\n",
+			"avatar",
+			"nav",
+			"avatar",
+			"MEDIA_URL",
+			"ico_bar",
+			"SITE_PACKAGES_PATH"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tutorialapp.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
