@@ -1,12 +1,9 @@
-from django.shortcuts import render, HttpResponse
+from django.shortcuts import render, HttpResponse, get_object_or_404
 from polls.models import Question
 from django.template import RequestContext, loader
 
 def detail(request, question_id):
-    try:
-        question = Question.objects.get(pk=question_id)
-    except Question.DoesNotExist:
-        raise Http404
+    question = get_object_or_404(Question, pk=question_id)
     return render(request, 'polls/detail.html',{'question':question})
 
 def results(request, question_id):
