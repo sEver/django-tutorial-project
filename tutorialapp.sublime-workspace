@@ -3,6 +3,42 @@
 	{
 		"selected_items":
 		[
+			[
+				"pas",
+				"past_question"
+			],
+			[
+				"asser",
+				"assertContains"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"qu",
+				"question_text"
+			],
+			[
+				"create",
+				"create_question"
+			],
+			[
+				"rece",
+				"recent_question"
+			],
+			[
+				"was",
+				"was_published_recently"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			]
 		]
 	},
 	"buffers":
@@ -11,9 +47,57 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 263.0,
+		"height": 194.0,
 		"selected_items":
 		[
+			[
+				"synta html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"syntax rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax ",
+				"Set Syntax: HTML"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"intall package",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
 			[
 				"package in",
 				"Package Control: Install Package"
@@ -66,10 +150,31 @@
 	},
 	"expanded_folders":
 	[
-		"/home/sever/projects/learning/django-1"
+		"/home/sever/projects/learning/django-1/tutorialapp",
+		"/home/sever/projects/learning/django-1/tutorialapp/templates",
+		"/home/sever/projects/learning/django-1/tutorialapp/tutorialapp"
 	],
 	"file_history":
 	[
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/templates/polls/index.html",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/templates/polls/results.html",
+		"/home/sever/projects/learning/django-1/tutorialapp/tutorialapp/urls.py",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/tests.py",
+		"/home/sever/projects/learning/django-1/django-polls/MANIFEST.in",
+		"/home/sever/projects/learning/django-1/django-polls/setup.py",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/static/polls/style.css",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/views.py",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/urls.py",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/admin.py",
+		"/home/sever/projects/learning/django-1/tutorialapp/tutorialapp/settings.py",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/templates/polls/detail.html",
+		"/home/sever/projects/learning/django-1/tutorialapp/polls/models.py",
+		"/home/sever/projects/learning/django-1/tutorialapp/tutorialapp.sublime-workspace",
+		"/home/sever/projects/learning/django-1/tutorialapp/tutorialapp.sublime-project",
+		"/home/sever/projects/learning/django-1/tutorialapp/templates/admin/base_site.html",
+		"/home/sever/projects/learning/django-1/tutorialapp/templates/admin/index.html",
+		"/home/sever/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/sever/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 		"/home/sever/workspace/profitelo-frontend/src/app/home/home.coffee",
 		"/home/sever/workspace/profitelo-frontend/src/common/translations/language_pl-pl.coffee",
 		"/home/sever/workspace/profitelo-frontend/src/index.html",
@@ -80,8 +185,6 @@
 		"/home/sever/workspace/profitelo-frontend/README.md",
 		"/home/sever/workspace/profitelo-frontend/Gruntfile.js",
 		"/home/sever/workspace/profitelo-frontend/src/common/translations/language_en-us.coffee",
-		"/home/sever/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-		"/home/sever/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/sever/workspace/profitelo-frontend/src/app/404/404.coffee",
 		"/home/sever/workspace/profitelo-frontend/tmux-console.sh",
 		"/home/sever/workspace/profitelo-frontend/.travis.yml",
@@ -96,7 +199,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -114,6 +217,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pane",
 			"technic help",
 			"recommended",
 			"recomended",
@@ -179,6 +283,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -221,7 +329,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 333.0,
+	"side_bar_width": 290.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
